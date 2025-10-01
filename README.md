@@ -1,30 +1,26 @@
-# Udemy-Course-Analysis-
-**Project Overview:**
-The project involves the analysis of Udemy course data spanning the years 2011 to 2017. The focus is on understanding the distribution of courses across various segments and learning levels, as well as examining key metrics such as subscriber counts and revenue generated from paid courses. The analysis will delve into trends over time, categorizing courses based on segments (e.g., technology, business, arts) and learning levels (e.g., beginner, intermediate, advanced). Additionally, it will scrutinize the growth patterns of subscribers and the financial performance associated with paid courses. The ultimate goal is to derive insights into the dynamics of Udemy's course offerings, their popularity, and the financial success of paid content during the specified timeframe.
+# Project Insights – Sweet-Cravings Bakery Dashboard
 
-**Goals:**
-1. **Segment and Learning Level Distribution:** Understand how Udemy courses are distributed across various segments (e.g., finance, business) and learning levels (e.g., all, beginner, intermediate, expert).
+Strong Profitability: Achieved $1.28M in revenue with $767.9K in profit (≈60% margin), reflecting efficient cost control with expenses of $511.9K.
 
-2. **Key Metrics Analysis:** Examine key metrics, including subscriber counts and revenue generated from paid courses. Identify patterns and variations in these metrics over the specified timeframe.
+Customer Concentration Risk: Wholesome is the leading customer, but reliance on a few major buyers poses risks. Diversification of customer base is critical to resilience.
 
-3. **Trend Analysis:** Analyze trends over time to identify any significant changes or patterns in course offerings, popularity, and financial success.
+Single Product Dependency: Sales are driven entirely by Chocolate Chip cookies (255.99K units, 151 orders). Lack of product variety exposes the bakery to demand shifts and limits growth potential.
 
-4. **Subscriber Growth Patterns:** Scrutinize the growth patterns of subscribers to Udemy courses, exploring how the user base has evolved during the analyzed period.
+Seasonal Demand Patterns: Profit peaks in October and December (holiday-driven sales) while February and November show dips. Seasonality presents both risk and opportunity for targeted campaigns.
 
-5. **Financial Performance of Paid Content:** Investigate the financial success of paid courses on Udemy. This includes understanding revenue trends and factors contributing to the financial performance of paid content.
+Growth Benchmark: Current performance is far below the $5M target, indicating the need for expansion strategies across product lines, customers, and markets.
 
-**Specific Focus:**
-- **Segment Categorization:** Categorize courses into different segments such as technology, business, arts, and more to understand the distribution across various domains.
+# Recommendations
 
-- **Learning Level Classification:** Classify courses into different learning levels, such as beginner, intermediate, and advanced, to analyze the distribution based on the complexity of the content.
+Product Diversification – Introduce new cookie varieties and seasonal flavors to expand revenue streams.
 
-- **Time-based Analysis:** Conduct a detailed time-based analysis to uncover trends and variations over the years 2011 to 2017.
+Customer Base Expansion – Reduce dependency on Wholesome by targeting new retail/wholesale clients and strengthening direct-to-consumer channels.
 
-- **Subscriber and Revenue Metrics:** Specifically focus on analyzing subscriber counts and revenue metrics to gauge the popularity and financial success of Udemy courses.
+Leverage Seasonality – Maximize holiday demand with limited-edition products, bundles, and promotions. Use marketing campaigns to boost sales in low-demand months.
 
-**Tools:**
-1. **Power BI:** Utilize Power BI for comprehensive data visualization, interactive dashboards, and in-depth analysis of Udemy course data.
+Strategic Reinvestment – Allocate profits toward scaling production, improving distribution, and marketing to drive long-term growth.
 
-2. **PowerPoint:** Create presentation slides in PowerPoint to effectively communicate the findings, insights, and trends uncovered during the analysis.
+Cost & Risk Monitoring – Continue controlling expenses while monitoring risks from supplier/customer concentration.
 
-This project will leverage the capabilities of Power BI for detailed data exploration and visualization, while PowerPoint will be employed for creating a compelling presentation that effectively communicates the discovered insights and trends to stakeholders.
+# Overall Story:
+Sweet-Cravings Bakery has proven its profitability with one product line, but sustainable growth toward its $5M target requires diversification, expansion, and strategic reinvestment. This dashboard illustrates how data storytelling can surface risks and opportunities in a clear, actionable way.
